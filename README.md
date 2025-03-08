@@ -71,16 +71,3 @@ chat-pygpt/
 ├── .env                      # Variáveis de ambiente (não incluído no repositório)
 ├── README.md                 # Documentação do projeto
 ````
-
-### 📝 Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-### 📬 Contato
-Autor: Odisley
-E-mail: odisleyribeirosilva@gmail.com
-GitHub: Odisley37
-
-
-````Este README inclui ícones para seções importantes, como tecnologias, funcionalidades, e instruções de uso. Ajuste os links e informações pessoais de acordo com o contexto do seu projeto.````
-### Odisley Silva 
